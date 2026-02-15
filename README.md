@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Engr. Nadeem Ullah
-- 👀 I’m interested in coding Arduino, ARMs, and Embedded C and Electrical Projects...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on https://www.guru.com/freelancers/engrnadeem-ullah
-- 📫 Reach me on Facebook at https://web.facebook.com/engr.nadeemullah.natoni
-- 💻 Watch my tutorials on https://www.youtube.com/channel/UCF4z3C4zd5ixv3SKRGT3Pdw
+- 👀 I’m interested in Embedded Systems/Firmware design, Smart-Grids technologies, and Hardware Schematics and PCB Designing...
+- 🌱 I’m currently applying my knowledge in practice at multinational companies and learning further as well...
+- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/engr-nadeemullah8496/
 - 🔎 Search me on Twitter https://twitter.com/BeingGuru22
-- 🔗 link with me on https://www.linkedin.com/in/engr-nadeemullah8496/
+- 💻 Watch my tutorials on https://www.youtube.com/channel/UCF4z3C4zd5ixv3SKRGT3Pdw
 - ❓ Ask me on Stack Overflow https://stackoverflow.com/users/11501670/nadeem-ullah
 - 🔰 Read my blog https://thenadeemullah.blogspot.com/
 - 💰 Hire me on Fiverr https://www.fiverr.com/nadeemullah8496?public_mode=true
